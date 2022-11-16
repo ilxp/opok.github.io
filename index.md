@@ -19,8 +19,7 @@ Opok系列
 根据Openwrt的分支，Opok目前提供5个系列:
 
 
-主力系列
----------------------------
+主力系列：
 
 * 源于[Immortalwrt团队](https://github.com/lienol/openwrt)的Opok_2102稳定版T1系列，下载地址：[点击进入网盘下载](https://pan.opok.org/2102-Series/)
 
@@ -29,8 +28,7 @@ Opok系列
 * 源于[Lean大神](https://github.com/coolsnowwolf/lede)的Opok_Lede小钢炮系列，下载地址：[点击进入网盘下载](https://pan.opok.org/Lede-Series/)
 
 
-EOL停更系列：可用作养老。
----------------------------
+EOL停更系列，可用作养老：
 
 * 源于[Immortalwrt团队](https://github.com/immortalwrt/immortalwrt)的Opok_1806稳定版E系列，含有石像鬼QOS。
 
