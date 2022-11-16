@@ -10,7 +10,7 @@ Opok心声
 
 2、Opok将各位开源大神的劳动成果汇聚在一起，无偿服务于大众！仅此而已，感谢各个开源大神的无私奉献！
 
-3、维护一个系统非常不易，如过你使用OPOK给自己带来了方便，请捐赠各开源作者，以便他们做得更好，走的更远！
+3、维护一个系统非常不易，如过你使用Opok给自己带来了方便，请捐赠各开源作者，以便他们做得更好，走的更远！
 
 
 Opok系列
@@ -18,16 +18,20 @@ Opok系列
 
 根据Openwrt的分支，Opok目前提供5个系列:
 
-* 源于[Immortalwrt团队](https://github.com/immortalwrt/immortalwrt)的Opok_1806稳定版E系列，下载地址：[点击进入网盘下载](https://pan.opok.org/E-1806/) 
+主力三大
 
-* 源于[Lienol大神](https://github.com/lienol/openwrt)的Opok_1907稳定版N系列，下载地址：[点击进入网盘下载](https://pan.opok.org/N-1907/)
+* 源于[Immortalwrt团队](https://github.com/lienol/openwrt)的Opok_2102稳定版T1系列，下载地址：[点击进入网盘下载](https://pan.opok.org/2102-Series/)
 
-* 源于[Immortalwrt团队](https://github.com/lienol/openwrt)的Opok_2102稳定版T1系列，下载地址：[点击进入网盘下载](https://pan.opok.org/T1-2102/)
+* 源于[官方原版](https://github.com/openwrt/openwrt)的Opok_2203稳定版T2系列，下载地址：[点击进入网盘下载](https://pan.opok.org/2203-Series/)
 
-* 源于[官方原版](https://github.com/openwrt/openwrt)的Opok_2203稳定版T2系列，下载地址：[点击进入网盘下载](https://pan.opok.org/T2-2203/)
+* 源于[Lean大神](https://github.com/coolsnowwolf/lede)的Opok_Lede小钢炮系列，下载地址：[点击进入网盘下载](https://pan.opok.org/Lede-Series/)
 
-* 源于[Lean大神](https://github.com/coolsnowwolf/lede)的Opok_Lede最新版LEDE系列，下载地址：[点击进入网盘下载](https://pan.opok.org/Lean-LEDE/)
 
+EOL停更系列：可用作养老。[下载地址]（https://pan.opok.org/Prev-Version/Eol-Series/1806-Series/）
+
+* 源于[Immortalwrt团队](https://github.com/immortalwrt/immortalwrt)的Opok_1806稳定版E系列，含有石像鬼QOS。
+
+* 源于[Lienol大神](https://github.com/lienol/openwrt)的Opok_1907稳定版N系列。
 
 Opok免责
 -------------------------------------------------------------------
