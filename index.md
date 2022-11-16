@@ -30,11 +30,10 @@ Opok系列
 
 EOL停更系列，可用作养老：
 
-* 源于[Immortalwrt团队](https://github.com/immortalwrt/immortalwrt)的Opok_1806稳定版E系列，含有石像鬼QOS。
+* 源于[Immortalwrt团队](https://github.com/immortalwrt/immortalwrt)的Opok_1806稳定版E系列，含有石像鬼QOS。 [下载地址](https://pan.opok.org/Prev-Version/Eol-Series/1806-Series/)
 
-* 源于[Lienol大神](https://github.com/lienol/openwrt)的Opok_1907稳定版N系列。
+* 源于[Lienol大神](https://github.com/lienol/openwrt)的Opok_1907稳定版N系列。 [下载地址](https://pan.opok.org/Prev-Version/Eol-Series/1907-Series/)
 
-   [下载地址](https://pan.opok.org/Prev-Version/Eol-Series/1806-Series/)
 
 Opok免责
 -------------------------------------------------------------------
