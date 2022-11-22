@@ -18,9 +18,9 @@ Opok系列
 
 根据Openwrt的分支，Opok目前提供3个系列:
 
-* 源于[Immortalwrt团队](https://github.com/lienol/openwrt)的Opok_2102稳定版T1系列，下载地址：[点击进入网盘下载](https://lede.lanzouv.com/b00w8axqf)
+* 源于[Immortalwrt团队](https://github.com/lienol/openwrt)的Opok_2102精简版T1系列，下载地址：[点击进入网盘下载](https://lede.lanzouv.com/b00w8axqf)
 
-* 源于[官方原版](https://github.com/openwrt/openwrt)的Opok_2203稳定版T2系列，下载地址：[点击进入网盘下载](https://lede.lanzouv.com/b00w9tzkb)
+* 源于[官方原版](https://github.com/openwrt/openwrt)的Opok_2203_Docker版T2系列，下载地址：[点击进入网盘下载](https://pan.opok.org/2203-Series/)
 
 * 源于[Lean大神](https://github.com/coolsnowwolf/lede)的Opok_Lede小钢炮系列，下载地址：[点击进入网盘下载](https://lede.lanzouv.com/b00w8axfe)
 
